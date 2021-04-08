@@ -2,12 +2,18 @@
 I'm known as the cybergnome. 
 If you're looking for someone to participate in beginner friendly projects I'm always happy to help.
 
-- Web:
-	- HTML
-	- CSS
-	- JS
-	
+---
+
+## Programming:
+- JS
 - Python
+
+---
+
+## Markup
+- HTML / CSS
+- LaTeX
+- Markdown
 
 ---
 
