@@ -9,6 +9,8 @@ If you're looking for someone to participate in beginner friendly projects I'm a
 	
 - Python
 
+---
+
 <!---
 cybrzwerg/cybrzwerg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
