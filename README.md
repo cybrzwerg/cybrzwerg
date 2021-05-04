@@ -1,19 +1,4 @@
-# About
----
-## Programming:
-- JS
-- Python
-
----
-
-## Markup
-- HTML / CSS
-- LaTeX
-- Markdown
-
----
-
-**Beginner**
+# Cyberzwerg
 
 <!---
 cybrzwerg/cybrzwerg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
